@@ -122,7 +122,6 @@ I enjoy creating modern, responsive UIs and scalable back-end systems.
 
 ## 📫 How to reach me
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/khaled-azam-a37a76303)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/github.svg" height="40em" alt="GitHub" title="GitHub"/>](https://github.com/khaledazam)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" height="40em" alt="Facebook" title="Facebook"/>](https://web.facebook.com/khaled.azam.710171/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" alt="Instagram" title="Instagram"/>](https://www.instagram.com/sir.duckld/)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" height="40em" alt="Email" title="Email"/>](mailto:khaled141ma@gmail.com)
