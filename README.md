@@ -1,4 +1,5 @@
-[<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kaW5nfGVufDB8fDB8fHww&ixlib=rb-4.1.0&q=60&w=1200" alt="Khaled Azam - Frontend Developer" title="Visit my GitHub Profile" width="800"/>](https://github.com/khaledazam)
+[<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kaW5nfGVufDB8fDB8fHww&ixlib=rb-4.1.0&q=60&w=1200" alt="Khaled Azam - Frontend Developer" title="Visit my GitHub Profile" width="400"/>](https://github.com/khaledazam)
+
 
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
